@@ -15,7 +15,11 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+
         int a=30;
+
+        String s="balod";
+
         assertTrue( true );
     }
 }
